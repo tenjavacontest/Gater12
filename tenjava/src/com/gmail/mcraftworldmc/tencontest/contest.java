@@ -9,6 +9,6 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 
 public class contest extends JavaPlugin{
-	/* Are we ready fot the most awesome plugin contest ever */
+	/* Are we ready for the most awesome plugin contest ever? */
 
 }
