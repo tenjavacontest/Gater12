@@ -1,0 +1,5 @@
+name: TenContest
+main: com.gmail.mcraftworldmc.tencontest.contest
+version: 1.0
+description: Plugin for the ten java contest
+author: MineOCraftMC
